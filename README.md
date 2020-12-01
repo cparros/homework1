@@ -1,10 +1,9 @@
 # homework1
-This is a code refactor based off homework 1 for UNC Coding Bootcamp. 
-The goal was to increase accessibility by using semantic HTML and improve the CSS.
+The goal of this assignment was to increase accessibility by using semantic HTML and improve the CSS through refactoring.
 
 These are the changes that were made to the original code:
 
-HTML Changes
+HTML Changes:
 Title changed to Horiseon
 Header element fixed
 Footer element fixed
@@ -15,8 +14,10 @@ Removed unnecessary id's
 Added figure element for image
 Added Alts for images
 
-CSS Changes
+CSS Changes:
 Consolidated benefit, benefit H3s, and benefit img
 consolidated search engine social, imgs, and H2s
 
-Link to finished site: https://cparros.github.io/homework1/
+Deployment: Link to finished site: https://cparros.github.io/homework1/
+
+Credits: This is a code refactor based off homework 1 for UNC Coding Bootcamp. 
