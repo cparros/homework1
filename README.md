@@ -1,5 +1,6 @@
 # homework1
 This is a code refactor based off homework 1 for UNC Coding Bootcamp. 
+The goal was to increase accessibility by using semantic HTML and improve the CSS.
 
 These are the changes that were made to the original code:
 
