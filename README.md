@@ -9,6 +9,7 @@ Header element fixed
 Footer element fixed
 Nav element add
 Added main element for content 
+Added aside element
 Removed unnecessary id's
 Added figure element for image
 Added Alts for images
