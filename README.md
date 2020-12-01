@@ -17,3 +17,5 @@ Added Alts for images
 CSS Changes
 Consolidated benefit, benefit H3s, and benefit img
 consolidated search engine social, imgs, and H2s
+
+Link to finished site: https://cparros.github.io/homework1/
